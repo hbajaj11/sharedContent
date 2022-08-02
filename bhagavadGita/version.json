@@ -1,12 +1,12 @@
 {
-	"startInvocation":"1.0.0",
-	"endInvocation":"1.0.0",
-	"gitaDhayanam":"1.0.0",
-	"gitaMahaatmya":"1.0.0",
-	"gitaComplete":"1.0.0",
-	"startInvocationEng":"1.0.0",
-	"endInvocationEng":"1.0.0",
-	"gitaDhayanamEng":"1.0.0",
-	"gitaMahaatmyaEng":"1.0.0",
-	"gitaCompleteEng":"1.0.0",
+	"startInvocation.json":"1",
+	"endInvocation.json":"1",
+	"gitaDhayanam.json":"1",
+	"gitaMahaatmya.json":"1",
+	"gitaComplete.json":"1",
+	"startInvocationEng.json":"1",
+	"endInvocationEng.json":"1",
+	"gitaDhayanamEng.json":"1",
+	"gitaMahaatmyaEng.json":"1",
+	"gitaCompleteEng.json":"1"
 }
